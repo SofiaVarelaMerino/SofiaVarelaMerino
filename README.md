@@ -41,4 +41,8 @@
   <img alt="Confluence" title="Confluence" src="https://img.icons8.com/color/30/000000/confluence--v2.png"/>&nbsp;&nbsp;
   <img alt="Json" title="Json" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
   </div>
-</br></br>
+</br>
+
+<h4>Summary of my last year:</h4>
+
+<img width="1327" alt="My contribution in the last year" title="My contribution in the last year" src="https://user-images.githubusercontent.com/31744700/136992411-3107f70c-3fae-4c16-8fb1-992e3a33fe43.png">
