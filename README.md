@@ -12,7 +12,6 @@
 <h4>About me:</h4>
 👩‍💻 &nbsp; Currently I work in MecadoLibre as SSr. Frontend Developer.</br>
 🌱 &nbsp; I’m currently learning about TypeScript. </br>
-📌 &nbsp; 2021 Goals: Leading a team, in which we work on several projects.</br>
 ⚡ &nbsp; Fun fact: I love going for a run, eating chocolate, watching series and sharing moments with friends.
 </br></br>
 <div>
