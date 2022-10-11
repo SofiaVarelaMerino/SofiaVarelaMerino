@@ -11,7 +11,7 @@
 
 <h4>About me:</h4>
 👩‍💻 &nbsp; Currently I work in Pomelo as SSr. Frontend Developer.</br>
-🌱 &nbsp; I’m currently working in TypeScript. </br>
+🌱 &nbsp; I’m currently learning about digital marketing. </br>
 ⚡ &nbsp; Fun fact: I love going for a run, eating chocolate, watching series and sharing moments with friends.
 </br></br>
 <div>
