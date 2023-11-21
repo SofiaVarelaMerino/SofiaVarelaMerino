@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>Hi there 👋&nbsp;,&nbsp; I'm Sofi </h1>
   <p>
-    Frontend developer with a passion for perfection.
+    Frontend developer with a passion for pixel perfect
     </br></br>
     <a href="https://www.linkedin.com/in/sofia-mariela-varela-merino/"><img alt="Linkedin" title="Linkedin" src="https://img.icons8.com/color/30/000000/linkedin-2--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:sofiamarielavarelamerino@gmail.com?subject=Hola%20Sofia"><img  alt="Gmail" title="Gmail" src="https://img.icons8.com/color/30/000000/gmail-new.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
