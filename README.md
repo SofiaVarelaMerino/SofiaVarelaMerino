@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>Hi there 👋&nbsp;,&nbsp; I'm Sofi </h1>
   <p>
-    Frontend developer with a passion for pixel perfect
+    Frontend developer with a passion for user experience and pixel perfect.
     </br></br>
     <a href="https://www.linkedin.com/in/sofia-mariela-varela-merino/"><img alt="Linkedin" title="Linkedin" src="https://img.icons8.com/color/30/000000/linkedin-2--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:sofiamarielavarelamerino@gmail.com?subject=Hola%20Sofia"><img  alt="Gmail" title="Gmail" src="https://img.icons8.com/color/30/000000/gmail-new.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 </br>
 
 <h4>About me:</h4>
-👩‍💻 &nbsp; Currently I work in Pomelo as SSr. Frontend Developer.</br>
+👩‍💻 &nbsp; Currently I work as Sr. Frontend Developer.</br>
 🌱 &nbsp; I’m currently learning about digital marketing. </br>
 ⚡ &nbsp; Fun fact: I love going for a run, eating chocolate, watching series and sharing moments with friends.
 </br></br>
